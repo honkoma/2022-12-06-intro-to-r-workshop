@@ -47,3 +47,4 @@ usethis::create_github_token(scopes = 'repo', description = 'R Workshop')
 #
 # Save our Personal Access Token (PAT)
 gitcreds::gitcreds_set(url = "https://github.com")
+
